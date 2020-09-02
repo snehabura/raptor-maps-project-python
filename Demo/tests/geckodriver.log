@@ -1,0 +1,172 @@
+1599006217445	geckodriver	INFO	Listening on 127.0.0.1:51025
+1599006217487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilemUNyMy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599006220797	Marionette	INFO	Listening on port 51030
+1599006220883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://qaboy.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522, line 2: TypeError: s is null
+1599006236696	Marionette	INFO	Stopped listening on port 51030
+1599007367249	geckodriver	INFO	Listening on 127.0.0.1:51205
+1599007367281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofile3hsd8Q"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007370072	Marionette	INFO	Listening on port 51210
+1599007370173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007374663	Marionette	INFO	Stopped listening on port 51210
+1599007724074	geckodriver	INFO	Listening on 127.0.0.1:51368
+1599007725084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilezzz3Zp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007727241	Marionette	INFO	Listening on port 51375
+1599007727350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007730676	Marionette	INFO	Stopped listening on port 51375
+1599007747136	geckodriver	INFO	Listening on 127.0.0.1:51489
+1599007748153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileimeGkB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007750246	Marionette	INFO	Listening on port 51496
+1599007750313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007755590	Marionette	INFO	Stopped listening on port 51496
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileimeGkB/protections.sqlite
+1599007787390	geckodriver	INFO	Listening on 127.0.0.1:51604
+1599007788407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofile2fAQFS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007790572	Marionette	INFO	Listening on port 51611
+1599007790676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007793840	Marionette	INFO	Stopped listening on port 51611
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofile2fAQFS/protections.sqlite
+1599007805792	geckodriver	INFO	Listening on 127.0.0.1:51718
+1599007806804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileW9D4vQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007808765	Marionette	INFO	Listening on port 51725
+1599007808873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007812454	Marionette	INFO	Stopped listening on port 51725
+1599007840936	geckodriver	INFO	Listening on 127.0.0.1:51820
+1599007841946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilexEht6V"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007843975	Marionette	INFO	Listening on port 51827
+1599007844012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007848543	Marionette	INFO	Stopped listening on port 51827
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599007917326	geckodriver	INFO	Listening on 127.0.0.1:51935
+1599007918338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileU15SGE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007920209	Marionette	INFO	Listening on port 51942
+1599007920297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007973926	Marionette	INFO	Stopped listening on port 51942
+1599008137640	geckodriver	INFO	Listening on 127.0.0.1:52054
+1599008138653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilewFH0zs"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008140648	Marionette	INFO	Listening on port 52061
+1599008140729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599008154112	Marionette	INFO	Stopped listening on port 52061
+1599008190805	geckodriver	INFO	Listening on 127.0.0.1:52161
+1599008191815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileHpwCuJ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008193779	Marionette	INFO	Listening on port 52168
+1599008193868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599008207853	Marionette	INFO	Stopped listening on port 52168
+1599008277237	geckodriver	INFO	Listening on 127.0.0.1:52276
+1599008278248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileI0IObW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008280248	Marionette	INFO	Listening on port 52283
+1599008280338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599008293964	Marionette	INFO	Stopped listening on port 52283
+1599008522691	geckodriver	INFO	Listening on 127.0.0.1:52401
+1599008523708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilehubtBL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008525706	Marionette	INFO	Listening on port 52408
+1599008525755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599008532262	Marionette	INFO	Stopped listening on port 52408
+1599008775490	geckodriver	INFO	Listening on 127.0.0.1:52525
+1599008776502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileVuJ6c8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008778447	Marionette	INFO	Listening on port 52532
+1599008778451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599008794908	Marionette	INFO	Stopped listening on port 52532
+1599008868034	geckodriver	INFO	Listening on 127.0.0.1:52643
+1599008868055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofileCyE9qT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008870562	Marionette	INFO	Listening on port 52648
+1599008870631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599008978040	Marionette	INFO	Stopped listening on port 52648
+1599018644224	geckodriver	INFO	Listening on 127.0.0.1:53048
+1599018644266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofiledyjJl2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599018647290	Marionette	INFO	Listening on port 53053
+1599018647356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599018662860	Marionette	INFO	Stopped listening on port 53053
+1599018713598	geckodriver	INFO	Listening on 127.0.0.1:53173
+1599018714616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilebMt2rD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599018717263	Marionette	INFO	Listening on port 53180
+1599018717290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599018733725	Marionette	INFO	Stopped listening on port 53180
+1599019857266	geckodriver	INFO	Listening on 127.0.0.1:53389
+1599019858280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilet7jgUL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599019860491	Marionette	INFO	Listening on port 53396
+1599019860522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599019866544	Marionette	INFO	Stopped listening on port 53396
+1599019867134	geckodriver	INFO	Listening on 127.0.0.1:53500
+1599019868121	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilej840sO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599019870392	Marionette	INFO	Listening on port 53507
+1599019870493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599019890864	Marionette	INFO	Stopped listening on port 53507
+1599020451762	geckodriver	INFO	Listening on 127.0.0.1:53654
+1599020452775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/sb9dsr2n10l71j3pg3lxf3vm0000gn/T/rust_mozprofilewRmjll"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599020454850	Marionette	INFO	Listening on port 53661
+1599020454979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599020476610	Marionette	INFO	Stopped listening on port 53661
